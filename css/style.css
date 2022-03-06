@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=League+Gothic&family=Roboto+Condensed&display=swap");
+@import url("components/container.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/button.css");
+@import url("components/card-white.css");
+@import url("components/list-inline.css");
+
+h1,h2,h2 {
+	font-family: 'League Gothic', sans-serif;
+	font-weight: bold;
+}
+
+body {
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 18px
+}
+
+a {
+	text-decoration: none;
+}
+
+h3 {
+	color: purple;
+    padding-left: 145px;
+    margin-bottom: 19px;
+    font-size: 35px;
+    margin-top: 46px;
+}
+
+li {
+	margin-top: 20px;
+}
